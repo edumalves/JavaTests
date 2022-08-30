@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ffd62c-0a50-41c7-9ada-85a8be01503b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaTest.java" afterDir="false" />
+    <list default="true" id="33ffd62c-0a50-41c7-9ada-85a8be01503b" name="Changes" comment="First Hello World in java!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
@@ -107,7 +107,16 @@
       <workItem from="1660776730625" duration="3742000" />
       <workItem from="1661813735653" duration="56000" />
       <workItem from="1661813817677" duration="1415000" />
+      <workItem from="1661815670629" duration="2448000" />
     </task>
+    <task id="LOCAL-00001" summary="First Hello World in java!">
+      <created>1661815775528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661815775528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Hello World in java!" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Hello World in java!" />
   </component>
 </project>
